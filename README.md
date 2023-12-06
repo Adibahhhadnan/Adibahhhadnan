@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Adibahhhadnan , currently a mobile computing student at UNIVERSITI MALAYSIA TERENGGANU
 - 👀 I’m interested in Mobile Apps Development especially in Flutter framework and Dart Programming...
 - 🌱 I’m currently learning Flutter Framework and Kotlin Programming...
-- 💞️ I’m looking to expnad my knowledge and endorse in new projects related to Flutter 
+- 💞️ I’m looking to expnad my knowledge and endorse in new projects related to Flutter
+- This github page records my previous learning materials and projects in JAVA,HTML,CSS,MySQL
 - The progress of mine is recorded in a new github acc , which is https://github.com/NurAdibahAdnan
 
 <!---
