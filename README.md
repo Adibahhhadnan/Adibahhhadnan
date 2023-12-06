@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Flutter Framework and Kotlin Programming...
 - 💞️ I’m looking to expnad my knowledge and endorse in new projects related to Flutter
 - This github page records my previous learning materials and projects in JAVA,HTML,CSS,MySQL
-- The progress of mine is recorded in a new github acc , which is https://github.com/NurAdibahAdnan
+- The new progress of mine is recorded in a new github acc , which is https://github.com/NurAdibahAdnan
 
 <!---
 Adibahhhadnan/Adibahhhadnan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
