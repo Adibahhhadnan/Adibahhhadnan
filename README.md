@@ -2,7 +2,7 @@
 - 👀 I’m interested in Mobile Apps Development especially in Flutter framework and Dart Programming...
 - 🌱 I’m currently learning Flutter Framework and Kotlin Programming...
 - 💞️ I’m looking to expnad my knowledge and endorse in new projects related to Flutter 
-  
+- The progress of mine is recorded in a new github acc , which is https://github.com/NurAdibahAdnan
 
 <!---
 Adibahhhadnan/Adibahhhadnan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
